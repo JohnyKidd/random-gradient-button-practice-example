@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background: black;
+}
+button{
+    margin-top: 50vh;
+    padding: 1rem;
+    background: crimson;
+    color: white;
+    border: 5px solid black;
+    border-radius: 15px;
+    font-size: 1rem;
+}
